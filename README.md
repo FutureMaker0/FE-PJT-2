@@ -1,1 +1,1 @@
-# be-pjt-2
+- tailwind css 적용 이력서 작성 레파지토리입니다.
